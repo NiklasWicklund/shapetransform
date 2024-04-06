@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shapetransform/static/css/main.7edb750b.css",
+    "main.js": "/shapetransform/static/js/main.483f23f1.js",
+    "static/js/453.6c0c8b67.chunk.js": "/shapetransform/static/js/453.6c0c8b67.chunk.js",
+    "index.html": "/shapetransform/index.html",
+    "main.7edb750b.css.map": "/shapetransform/static/css/main.7edb750b.css.map",
+    "main.483f23f1.js.map": "/shapetransform/static/js/main.483f23f1.js.map",
+    "453.6c0c8b67.chunk.js.map": "/shapetransform/static/js/453.6c0c8b67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7edb750b.css",
+    "static/js/main.483f23f1.js"
+  ]
+}
